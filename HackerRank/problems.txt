@@ -1,0 +1,14 @@
+Extremelly Easy
+-Divisible-Sum-Pairs
+
+Easy / Interesting
+-Cavity-Map
+-ACM_ICPC_Team
+-Caesar-Cipher
+-Chocolate_Feast
+-Cut_the_Sticks
+
+Moderate
+
+Hard
+
