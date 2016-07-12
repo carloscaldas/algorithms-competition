@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modified-Krapekar-Numbers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra-Long-Factorial", "Extra-Long-Factorial\Extra-Long-Factorial.csproj", "{B2EF33DF-7785-41B1-84D3-BF845B969F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New-Year-Chaos", "New-Year-Chaos\New-Year-Chaos.csproj", "{E837FF38-CC54-4EAF-8876-D27312FAA135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{B2EF33DF-7785-41B1-84D3-BF845B969F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EF33DF-7785-41B1-84D3-BF845B969F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EF33DF-7785-41B1-84D3-BF845B969F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E837FF38-CC54-4EAF-8876-D27312FAA135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E837FF38-CC54-4EAF-8876-D27312FAA135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E837FF38-CC54-4EAF-8876-D27312FAA135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E837FF38-CC54-4EAF-8876-D27312FAA135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
